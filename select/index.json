@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ビビデバ",
+  "base_artist": "Hoshimachi Suisei",
+  "createdAt": "2025-12-30T07:09:49.730259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビビデバ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_ビビデバ_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/02_ビビデバ_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/03_ビビデバ_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビビデバ - BIBBIDIBA",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_ビビデバ_-_BIBBIDIBA_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビビデバ",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/05_ビビデバ_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ビビデバ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/06_ビビデバ_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/07_ビビデバ_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/08_ビビデバ_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ビビデバ / BIBBIDIBA",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/09_ビビデバ___BIBBIDIBA_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ビビデバ (Paused)",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/10_ビビデバ_(Paused)_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビビデバ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": false,
+      "path": "select/pl_01_ビビデバ_Hoshimachi_Suisei.txt"
+    }
+  ]
+}
